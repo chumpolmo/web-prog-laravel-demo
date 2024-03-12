@@ -1,0 +1,49 @@
+@font-face {
+    font-family: 'THSarabun';
+    font-style: normal;
+    font-weight: normal;
+    src: url("{{ public_path('fonts/THSarabun.ttf') }}") format('truetype');
+}
+
+@font-face {
+    font-family: 'THSarabun';
+    font-style: normal;
+    font-weight: bold;
+    src: url("{{ public_path('fonts/THSarabun Bold.ttf') }}") format('truetype');
+}
+
+@font-face {
+    font-family: 'THSarabun';
+    font-style: italic;
+    font-weight: normal;
+    src: url("{{ public_path('fonts/THSarabun Italic.ttf') }}") format('truetype');
+}
+
+@font-face {
+    font-family: 'THSarabun';
+    font-style: italic;
+    font-weight: bold;
+    src: url("{{ public_path('fonts/THSarabun Bold Italic.ttf') }}") format('truetype');
+}
+
+body {
+    font-family: 'THSarabun';
+}
+
+table, td, th {
+  border: 1px solid;
+  padding: 2px;
+}
+
+th {
+  background-color: #E6E6FA;
+}
+
+table {
+  width: 100%;
+  border-collapse: collapse;
+}
+
+.txt_r {
+  text-align: right;
+}

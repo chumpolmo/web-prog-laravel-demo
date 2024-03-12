@@ -1,0 +1,13 @@
+{
+    "thsarabun": {
+        "normal": "C:\\xampp-new\\htdocs\\026599999999-9\\example-app\\storage\\fonts\/thsarabun_normal_6c0d5ee871ee96d9460a567a8c24b625",
+        "bold": "C:\\xampp-new\\htdocs\\026599999999-9\\example-app\\storage\\fonts\/thsarabun_bold_bdc67b752b6567dd3a54ba0dd78234b9",
+        "italic": "C:\\xampp-new\\htdocs\\026599999999-9\\example-app\\storage\\fonts\/thsarabun_italic_00d6f09fc994522369c767e650afde8d",
+        "bold_italic": "thsarabun_bold_italic_a3b994ce5479acf4529b01629d84aa84"
+    },
+    "thsarabunnew": {
+        "bold": "C:\\xampp-new\\htdocs\\026599999999-9\\example-app\\storage\\fonts\/thsarabunnew_bold_bdc67b752b6567dd3a54ba0dd78234b9",
+        "italic": "C:\\xampp-new\\htdocs\\026599999999-9\\example-app\\storage\\fonts\/thsarabunnew_italic_00d6f09fc994522369c767e650afde8d",
+        "bold_italic": "thsarabunnew_bold_italic_a3b994ce5479acf4529b01629d84aa84"
+    }
+}
